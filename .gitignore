@@ -1,0 +1,10 @@
+# Archivos temporales de PHP
+*.log
+*.tmp
+*.cache
+
+# Archivos de configuración sensibles
+php/conexion.php
+
+# Documentación generada
+docs/
