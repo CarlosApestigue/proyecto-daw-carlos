@@ -26,4 +26,8 @@ proyecto-daw/
 1. Clonar el repositorio
 2. Abrir `index.html` en un navegador
 3. PHP solo para demostración de conexión LDAP
+## Control de versiones
+
+El desarrollo se realiza en la rama "desarrollo".
+Posteriormente se integran los cambios en la rama "main" mediante merge.
 
