@@ -30,4 +30,4 @@ proyecto-daw/
 
 El desarrollo se realiza en la rama "desarrollo".
 Posteriormente se integran los cambios en la rama "main" mediante merge.
-
+#3 Actualización conceptual de LDAP en la documentación
